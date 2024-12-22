@@ -18,6 +18,9 @@ This guarantees that your environment is isolates and modules/libraries are orde
 
 ##Extraction 002##
 ------------------------------
+- Trying to make a .ts extraction script that showcases Strong Typing for correctly handling data as well as potential ability to do light transformations? i.e. changing values like phone number from num to string etc.
+
+- Improve on the previous project by pulling from at least two or three sources. The trick here is to make the pipeline as modular as possible and to explore how to make the scripts handle generic and specific ETL usecases for different data sources.
 
 ##Transformation##
 ------------------------------
